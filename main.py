@@ -2,6 +2,8 @@ import math
 
 def plus(a, b):
     c = a + b
+    if c == 67:
+        print("ыыыыыы six seven")
     return print(c)
 
 def minus(a, b):
